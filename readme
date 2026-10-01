@@ -1,0 +1,29 @@
+# Credit Card Fraud Detection
+
+A Machine Learning project that detects fraudulent credit card transactions using a Random Forest Classifier.
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Workflow
+
+```text
+Data Loading
+↓
+Data Preprocessing
+↓
+EDA
+↓
+Train-Test Split
+↓
+Feature Scaling
+↓
+Random Forest
+↓
+Model Evaluation
